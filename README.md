@@ -1,1 +1,0 @@
-# preg1_frase_rgt
